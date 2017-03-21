@@ -1,4 +1,4 @@
 {
-	"notification" : "",
-	"isPerfAvailable" : true
+	"notification" : "PERF environment are in maintenance until further notice",
+	"isPerfAvailable" : false
 }
