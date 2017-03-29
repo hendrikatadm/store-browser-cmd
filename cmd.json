@@ -1,4 +1,4 @@
 {
-	"notification" : "PERF environment are in maintenance until further notice",
+	"notification" : "UAT UK might be broken at the moment for masterpage testing. PERF environment are in maintenance until further notice.",
 	"isPerfAvailable" : false
 }
